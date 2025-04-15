@@ -1,1 +1,0 @@
-# artvote-algorand-gallery
